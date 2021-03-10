@@ -6,7 +6,7 @@ spec:
   type: git
   params: 
   - name: url
-    value: https://github.com/kameshsampath/pipeline-helloworld
+    value: https://github.com/rcdebasish/pipeline-helloworld
   - name: revision
     value: master
 ---
